@@ -1,0 +1,21 @@
+.container {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+
+.cubo {
+    border: solid 3px;
+    border-color: burlywood;
+    width: 200px;
+    height: 200px;
+    background-color: beige;
+}
